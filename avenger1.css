@@ -1,0 +1,25 @@
+/* CSS of avenger1.html file*/
+#ww{
+    background-image: url("avengers-endgame.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+
+}
+.heading{
+    margin: 13%;
+    font-size:45px;
+    color:rgba(0, 0, 0, 0.945);
+}
+footer{
+    font-size: 30px;
+    border:2px;
+    
+}
+.time{
+    
+    font-size: 15px;
+    
+}
+
